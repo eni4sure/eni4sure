@@ -1,6 +1,6 @@
 <div align="center">
   
-  ## Hi there 👋
+  # Hi there 👋🏾
 
   My name is Eniola Osabiya.
 
