@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 <div align="center">
-  ![Eniola Osabiya Image](https://avatars2.githubusercontent.com/u/52782730?s=460&u=87a53cad4a3ff6734419f9e784ccef717bd35a9f&v=4)
+  
+![eniola_osabiya_image](https://avatars2.githubusercontent.com/u/52782730?s=460&u=87a53cad4a3ff6734419f9e784ccef717bd35a9f&v=4)
+<br>
 </div>
 
 <!--
