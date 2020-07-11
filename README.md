@@ -14,16 +14,16 @@
   <br>
   Some of the cool websites/apps I've worked on are:
   <br>
-  [A Library Management System](https://mfmteens.org), [EDSOFTA](https://edsofta.com), [DOMATHZ](https://oandoideas.github.io/domathz), [Word Find Naija](https://oandoideas.github.io/word-find-naija), [Dry Jokes](https://eni4sure.github.io/dryjokes), etc....
+  [A Library Management System](https://mfmteens.org/library), [EDSOFTA](https://edsofta.com), [DOMATHZ](https://oandoideas.github.io/domathz), [Word Find Naija](https://oandoideas.github.io/word-find-naija), [Dry Jokes](https://eni4sure.github.io/dryjokes), etc....
   <br>
-  To see a more detailed list of my projects, You can go through my [repositories](https://github.com/eni4sure/repositories)
+  To see a more detailed list of my projects, You can go through my [repositories](https://github.com/eni4sure?tab=repositories)
   
   <br>
   
   
   My Tech Proficiency/Skills Include:
   <br>
-  | HTML | CSS | JS | PHP | Angular | MySQL | Bootstrap | W3CSS | MaterializeCSS | Flutter | Laravel | JQUERY | Typescript | GitHub | Swaggery | PostMan |
+  HTML | CSS | JS | PHP | Angular | MySQL | Bootstrap | W3CSS | MaterializeCSS | Flutter | Laravel | JQUERY | Typescript | GitHub | Swaggery | PostMan
   
   
   <br>
