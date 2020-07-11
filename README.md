@@ -16,7 +16,7 @@
   <br>
   [A Library Management System](https://mfmteens.org), [EDSOFTA](https://edsofta.com), [DOMATHZ](https://oandoideas.github.io/domathz), [Word Find Naija](https://oandoideas.github.io/word-find-naija), [Dry Jokes](https://eni4sure.github.io/dryjokes), etc....
   <br>
-  To see a more detailed list of my projects, You can go through my [repositories](https://github.com/eni4sure/repositories]
+  To see a more detailed list of my projects, You can go through my [repositories](https://github.com/eni4sure/repositories)
   
   <br>
   
