@@ -23,17 +23,17 @@
   
   My Tech Proficiency/Skills Include:
   <br>
-  HTML | CSS | JS
+  HTML &nbsp; | &nbsp; CSS &nbsp; | &nbsp; JS
   <br>
-  PHP | Laravel | MySQL
+  PHP &nbsp; | &nbsp; Laravel &nbsp; | &nbsp; MySQL
   <br>
-  Angular | Typescript | JQUERY
+  Angular &nbsp; | &nbsp; Typescript &nbsp; | &nbsp; JQUERY
   <br>
-  Bootstrap | W3CSS | MaterializeCSS
+  Bootstrap &nbsp; | &nbsp; W3CSS &nbsp; | &nbsp; MaterializeCSS
   <br>
   Flutter | JAVA(ANDROID)
   <br>
-  GitHub | Swaggery | PostMan
+  GitHub &nbsp; | &nbsp; Swaggery &nbsp; | &nbsp; PostMan
   <br>
   Amazon EC2 | Docker
   
