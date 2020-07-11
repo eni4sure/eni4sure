@@ -1,22 +1,9 @@
 ## Hi there 👋
 
-<div align="center">
-  
-![eniola_osabiya_image](https://avatars2.githubusercontent.com/u/52782730?s=460&u=87a53cad4a3ff6734419f9e784ccef717bd35a9f&v=4)
-<br>
-</div>
+My name is Eniola Osabiya.
 
-<!--
-**eni4sure/eni4sure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can follow me on:
+- [LinkedIn](https://linkedin.com/in/eniola-osabiya)
+- [Twitter](https://twitter.com/eni4sure)
+- [Instagram](https://instagram.com/eni4sure)
+- [Facebook](https://facebook.com/eni4sure)
