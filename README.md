@@ -31,11 +31,11 @@
   <br>
   Bootstrap &nbsp; | &nbsp; W3CSS &nbsp; | &nbsp; MaterializeCSS
   <br>
-  Flutter | JAVA(ANDROID)
+  Flutter &nbsp; | &nbsp; JAVA(ANDROID)
   <br>
   GitHub &nbsp; | &nbsp; Swaggery &nbsp; | &nbsp; PostMan
   <br>
-  Amazon EC2 | Docker
+  Amazon EC2 &nbsp; | &nbsp; Docker
   
   
   <br>
