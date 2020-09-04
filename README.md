@@ -35,7 +35,7 @@
   <br>
   GitHub &nbsp; | &nbsp; Swaggery &nbsp; | &nbsp; PostMan
   <br>
-  Amazon EC2 &nbsp; | &nbsp; Docker
+  Amazon EC2 &nbsp; | &nbsp; A little of Docker
   
   
   <br>
