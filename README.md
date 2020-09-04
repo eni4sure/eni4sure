@@ -33,9 +33,9 @@
   <br>
   Flutter &nbsp; | &nbsp; JAVA (ANDROID)
   <br>
-  GitHub &nbsp; | &nbsp; Swaggery &nbsp; | &nbsp; PostMan
+  GitHub &nbsp; | &nbsp; PostMan
   <br>
-  Amazon EC2 &nbsp; | &nbsp; A little of Docker
+  Amazon EC2 &nbsp; | &nbsp; Docker (little)
   
   
   <br>
