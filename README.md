@@ -18,8 +18,8 @@ Some of the cool websites/apps I've worked on are:
 ~ [Dry Jokes](https://eni4sure.github.io/dryjokes), 
 ~ [View all](https://github.com/eni4sure?tab=repositories)
 
-
 <h1 align="center">I can 😁:</h1>
+
 
 - use HTML, CSS and Javascrpt(ES%, ES6) for the frontend.
 - use Frameworks (Bootstrap, MaterializeCSS, W3CSS, JQuery) for fast development.
@@ -58,7 +58,6 @@ Some of the cool websites/apps I've worked on are:
 </p>
 
 
-
 - use Amazon Web Services and Firebase for DevOps, deployment and cloud computing.
 - AWS (Amazon EC2, Amazon SES, Amazon Webmail, Amazon RDS, Amazon S3, Amazon Route53 )
 - Firebase (Authentication, Hosting)
@@ -73,6 +72,7 @@ Some of the cool websites/apps I've worked on are:
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" height="40"/> 
 </p>
+
 
 - use postman for testing APIs and for making API documentation.
 <p>
@@ -116,8 +116,7 @@ Some of the cool websites/apps I've worked on are:
     <a href="https://youtube.com/channel/UC1gDGAEXp0yC7cY5aGQld1w" target="_blank">
         <img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="eniola osabiya" height="40" />
     </a>
-    <br>
-    <br>
+    <br><br>
     <a href="https://kaggle.com/eni4sure" target="_blank">
         <img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="eni4sure" height="40" />
     </a>
@@ -127,7 +126,6 @@ Some of the cool websites/apps I've worked on are:
     <a href="https://www.leetcode.com/eni4sure" target="_blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="eni4sure" height="40" />
     </a>
-    <br>
-    <br>
+    <br><br>
     <img src="https://komarev.com/ghpvc/?username=eni4sure" alt="eni4sure" />
 </p>
