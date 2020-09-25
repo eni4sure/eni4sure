@@ -58,12 +58,14 @@ Some of the cool websites/apps I've worked on are:
 </p>
 
 
-- use Amazon Web Services and Firebase for DevOps, deployment and cloud computing.
+- use Amazon Web Services, Firebase, Heroku and Netlify for DevOps, deployment and cloud computing.
 - AWS (Amazon EC2, Amazon SES, Amazon Webmail, Amazon RDS, Amazon S3, Amazon Route53 )
 - Firebase (Authentication, Hosting)
 <p>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="firebase" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" alt="heroku" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg" alt="netlify" height="40"/>
 </p>
 
 
