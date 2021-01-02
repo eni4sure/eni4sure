@@ -131,3 +131,6 @@ Some of the cool websites/apps I've worked on are:
     <br><br>
     <img src="https://komarev.com/ghpvc/?username=eni4sure" alt="eni4sure" />
 </p>
+
+Happy New
+Commit For Everyday 😃 - Day 1
