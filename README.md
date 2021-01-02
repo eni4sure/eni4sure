@@ -132,6 +132,8 @@ Some of the cool websites/apps I've worked on are:
     <img src="https://komarev.com/ghpvc/?username=eni4sure" alt="eni4sure" />
 </p>
 
-Happy New Year
-<br />
-Commit For Everyday 😃 - Day 1
+<p align="center">
+    Happy New Year
+    <br />
+    Commit For Everyday 😃 - Day 1
+</p>
