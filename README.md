@@ -21,7 +21,7 @@ Some of the cool websites/apps I've worked on are:
 <h1 align="center">I can 😁:</h1>
 
 
-- use HTML, CSS and Javascrpt(ES%, ES6) for the frontend.
+- use HTML, CSS and Javascrpt(ES5, ES6) for the frontend.
 - use Frameworks (Bootstrap, MaterializeCSS, W3CSS, JQuery) for fast development.
 <p>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" height="40"/> 
