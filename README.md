@@ -6,9 +6,7 @@
 <h1 align="center">Stats ✨</h1>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eni4sure&layout=compact" alt="eni4sure" />
-    &nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api?username=eni4sure&show_icons=true" alt="eni4sure" />
+    <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=eni4sure" alt="eni4sure" />
 </div>
 
 
