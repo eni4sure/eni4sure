@@ -1,46 +1,44 @@
-<!-- <h1 align="center"> Hi there 👋🏾 </h1> -->
-<img src="https://raw.githubusercontent.com/eni4sure/eni4sure/master/header.png" alt="My Profile Header Image" /> 
 
-<hr>
+## Hello, I'm Eniola  <img src="https://emoji.slack-edge.com/T02HBS55FCG/cool-doge/aa3c8fd9037a0604.gif" width="28px" alt="hi">
 
-<h1 align="center">Stats ✨</h1>
+I'm Eniola Osabiya a 17yrs Old Full Stack Developer (BE-Heavy) with 4 years of building experience. I have an obsession for  \*clean\*   and structured code. 
 
-<div align="center">
-    <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=eni4sure" alt="eni4sure" />
-</div>
+:mailbox: Looking for me!
 
+[![Twitter Badge](https://img.shields.io/badge/-@eni4sure-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/eni4sure) [![Linkedin Badge](https://img.shields.io/badge/-Eniola_Osabiya-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eniola-osabiya/) [![Instagram Badge](https://img.shields.io/badge/-@eni4sure-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/eni4sure) [![Facebook Badge](https://img.shields.io/badge/-@eni4sure-3b5998?style=flat&labelColor=3b5998&logo=facebook&logoColor=white)](https://facebook.com/eni4sure)
 
-<h1 align="center">Socials 🤝🏾</h1>
+- 👨🏾‍💻 I’m currently working at @MyPD // Remote.
+- :computer:  Favourite Emoji's: 🙂 🌚
+- 📫  Reach me on: eosabiya@gmail.com.
+- 👀 Pronouns: He/Him, eni4sure.
+- ⚡ Fun fact: I love fixing bugs :smile:.
 
-<p align="center">
-    <a href="https://twitter.com/eni4sure" target="_blank">
-        <img align="center" src="https://devicon.dev/devicon.git/icons/twitter/twitter-original.svg" alt="eni4sure" height="50" />
-    </a>
-    &nbsp;
-    <a href="https://linkedin.com/in/eniola-osabiya" target="_blank"
-        ><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="eniola-osabiya" height="50" />
-    </a>
-    &nbsp;
-    <a href="https://fb.com/eni4sure" target="_blank">
-        <img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="eni4sure" height="50" />
-    </a>
-    &nbsp;
-    <a href="https://instagram.com/eni4sure" target="_blank">
-        <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="eni4sure" height="50" />
-    </a>
-    <a href="https://youtube.com/channel/UC1gDGAEXp0yC7cY5aGQld1w" target="_blank">
-        <img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="eniola osabiya" height="40" />
-    </a>
-    <br><br>
-    <a href="https://kaggle.com/eni4sure" target="_blank">
-        <img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="eni4sure" height="40" />
-    </a>
-    <a href="https://www.hackerrank.com/eni4sure" target="_blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="eni4sure" height="40" />
-    </a>
-    <a href="https://www.leetcode.com/eni4sure" target="_blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="eni4sure" height="40" />
-    </a>
-    <br><br>
-    <img src="https://komarev.com/ghpvc/?username=eni4sure" alt="eni4sure" />
-</p>
+#### Top Technologies ⚡️
+
+![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F) ![Javascript Badge](https://img.shields.io/badge/-Php-8993be?style=for-the-badge&labelColor=black&logo=php&logoColor=8993be)
+
+![Nodejs Badge](https://img.shields.io/badge/-Laravel-fb503b?style=for-the-badge&labelColor=black&logo=laravel&logoColor=fb503b) ![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A) ![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)     
+
+#### Work 💼
+
+- :email: eosabiya@gmail.com
+- Portfolio: soon....
+
+#### Profile Visits 🙈
+
+![visitors](https://komarev.com/ghpvc/?username=eni4sure)
+
+<details>
+<summary>
+  More stuffs 🌚
+</summary>
+
+<!-- #### Wakatime Stats 🚶🏾‍♂️  -->
+
+#### Coderank Stats 😅
+![Coderank Stats](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=eni4sure)
+
+#### Github Stats 😁
+![Github stats](https://github-readme-stats.vercel.app/api?username=eni4sure&count_private=true&theme=dark&hide=contribs,issues)
+
+</details>
