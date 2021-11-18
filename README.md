@@ -33,12 +33,13 @@ I'm Eniola Osabiya a 17yrs Old Full Stack Developer (BE-Heavy) with 4 years of b
   More stuffs 🌚
 </summary>
 
-<!-- #### Wakatime Stats 🚶🏾‍♂️  -->
-
 #### Coderank Stats 😅
 ![Coderank Stats](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=eni4sure)
 
 #### Github Stats 😁
 ![Github stats](https://github-readme-stats.vercel.app/api?username=eni4sure&count_private=true&theme=dark&hide=contribs,issues)
+  
+#### Wakatime Stats 🚶🏾‍♂️ 
+![Wakatime Stats](https://wakatime.com/share/@f05dbbcc-977a-4174-affa-e3903e02de84/76eff073-16c2-4bc8-a571-83bcfa6614ba.svg)
 
 </details>
