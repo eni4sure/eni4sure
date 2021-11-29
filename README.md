@@ -1,7 +1,7 @@
 
 ## Hello, I'm Eniola  <img src="https://emoji.slack-edge.com/T02HBS55FCG/cool-doge/aa3c8fd9037a0604.gif" width="28px" alt="hi">
 
-I'm Eniola Osabiya a 17yrs Old Full Stack Developer (BE-Heavy) with 4 years of building experience. I have an obsession for  \*clean\*   and structured code. 
+I'm Eniola Osabiya a 17yrs Old Full Stack Developer (BE-Heavy) with 5 years of building experience. I have an obsession for  \*clean\*   and structured code. 
 
 :mailbox: Looking for me!
 
