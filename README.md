@@ -22,7 +22,7 @@ I'm Eniola Osabiya a 17yrs Old Full Stack Developer (BE-Heavy) with 5 years of b
 #### Work 💼
 
 - :email: eosabiya@gmail.com
-- Portfolio: soon....
+- Portfolio: https://www.eniolaosabiya.com
 
 #### Profile Visits 🙈
 
