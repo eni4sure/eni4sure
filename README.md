@@ -1,7 +1,7 @@
 
 ## Hello, I'm Eniola  <img src="https://emoji.slack-edge.com/T02HBS55FCG/cool-doge/aa3c8fd9037a0604.gif" width="28px" alt="hi">
 
-I'm Eniola Osabiya a Full Stack Dev. and Cloud Engineer with 5 years of building experience.
+I'm a Full Stack Dev. and Cloud Engineer with 5 years of building experience.
 
 :mailbox: Looking for me!
 
